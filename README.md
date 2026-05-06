@@ -1,4 +1,4 @@
-# Blue Ridge Light Photography
+# Abiding Light Studio
 
 A warm, natural-light photography portfolio website inspired by wildflowers, mountain landscapes, and the quiet beauty of North Carolina's Blue Ridge Parkway.
 
@@ -124,4 +124,4 @@ This project is for personal/commercial use. Modify and deploy as needed for you
 
 ---
 
-Built with warm tones, natural light inspiration, and love for the Blue Ridge Mountains.
+Built with warm tones, natural light inspiration, and love for the Blue Ridge Mountains. Rooted in faith — "Abide in me" (John 15:4).

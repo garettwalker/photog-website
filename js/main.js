@@ -1,5 +1,5 @@
 /**
- * Blue Ridge Light Photography - Main JavaScript
+ * Abiding Light Studio - Main JavaScript
  * Subtle, natural interactions for a warm photography portfolio
  */
 
