@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="430" viewBox="0 0 500 430">
+  <defs>
+    <linearGradient id="storySky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#eadfcd"/>
+      <stop offset="100%" style="stop-color:#d6c3a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="430" fill="url(#storySky)"/>
+  <circle cx="380" cy="100" r="50" fill="#f3ecdf" opacity="0.5"/>
+  <path d="M0 250 Q150 200 300 220 T500 200 L500 430 L0 430 Z" fill="#70765c" opacity="0.7"/>
+  <path d="M0 320 Q200 280 500 300 L500 430 L0 430 Z" fill="#a1a98d" opacity="0.6"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#736b5f" font-family="Georgia, serif" font-size="16">Mountain Light</text>
+</svg>

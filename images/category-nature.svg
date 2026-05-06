@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="430" viewBox="0 0 400 430">
+  <defs>
+    <linearGradient id="natureGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a1a98d"/>
+      <stop offset="100%" style="stop-color:#70765c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="430" fill="url(#natureGrad)"/>
+  <path d="M0 280 Q100 240 200 260 T400 240 L400 430 L0 430 Z" fill="#5a5f4a" opacity="0.6"/>
+  <circle cx="280" cy="100" r="40" fill="#f3ecdf" opacity="0.3"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#f3ecdf" font-family="Georgia, serif" font-size="20" font-style="italic">Nature</text>
+</svg>

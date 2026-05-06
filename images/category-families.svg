@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="430" viewBox="0 0 400 430">
+  <rect width="400" height="430" fill="#a1a98d"/>
+  <circle cx="140" cy="180" r="35" fill="#eadfcd" opacity="0.4"/>
+  <circle cx="260" cy="160" r="30" fill="#eadfcd" opacity="0.4"/>
+  <circle cx="200" cy="220" r="40" fill="#eadfcd" opacity="0.3"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#f3ecdf" font-family="Georgia, serif" font-size="20" font-style="italic">Families</text>
+</svg>

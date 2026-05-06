@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <rect width="400" height="280" fill="#d6c3a5"/>
+  <circle cx="120" cy="100" r="30" fill="#c4a24f" opacity="0.5"/>
+  <circle cx="200" cy="140" r="25" fill="#aaa0bb" opacity="0.4"/>
+  <circle cx="280" cy="80" r="20" fill="#b77b5f" opacity="0.4"/>
+  <circle cx="180" cy="200" r="28" fill="#a1a98d" opacity="0.4"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#736b5f" font-family="Georgia, serif" font-size="14">Flower Detail</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="780" viewBox="0 0 1320 780">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#eadfcd"/>
+      <stop offset="50%" style="stop-color:#d6c3a5"/>
+      <stop offset="100%" style="stop-color:#a99782"/>
+    </linearGradient>
+    <linearGradient id="mountainGrad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#70765c"/>
+      <stop offset="100%" style="stop-color:#5a5f4a"/>
+    </linearGradient>
+    <linearGradient id="mountainGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#736b5f"/>
+      <stop offset="100%" style="stop-color:#5a544a"/>
+    </linearGradient>
+    <linearGradient id="foregroundGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a1a98d"/>
+      <stop offset="100%" style="stop-color:#70765c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1320" height="780" fill="url(#skyGrad)"/>
+  <circle cx="900" cy="180" r="60" fill="#f3ecdf" opacity="0.4"/>
+  <path d="M0 420 Q200 380 400 400 T800 360 T1320 380 L1320 780 L0 780 Z" fill="url(#mountainGrad1)" opacity="0.7"/>
+  <path d="M0 480 Q300 440 600 460 T1320 440 L1320 780 L0 780 Z" fill="url(#mountainGrad2)" opacity="0.85"/>
+  <path d="M0 580 Q200 540 400 560 T1320 540 L1320 780 L0 780 Z" fill="url(#foregroundGrad)"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#736b5f" font-family="Georgia, serif" font-size="24" opacity="0.6">Hero Image — Mountain Overlook at Golden Hour</text>
+</svg>

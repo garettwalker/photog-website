@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="430" viewBox="0 0 400 430">
+  <rect width="400" height="430" fill="#eadfcd"/>
+  <rect x="120" y="150" width="160" height="180" fill="#d6c3a5"/>
+  <rect x="150" y="180" width="50" height="60" fill="#a99782" opacity="0.5"/>
+  <rect x="200" y="180" width="50" height="60" fill="#a99782" opacity="0.5"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#736b5f" font-family="Georgia, serif" font-size="20" font-style="italic">Real Estate</text>
+</svg>
